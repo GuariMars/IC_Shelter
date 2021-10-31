@@ -1,0 +1,5 @@
+pcb: Note 6085: Top pkg U1: 2 empty slot(s), device ULN2003A_SOIC16
+pcb: Warning 6083: Top pin $1I235\$1I126\$1I132.VCC: Single pin net: VCC
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 0, Notes 2, Warnings 1
+Errors 0, Failures 0, Fatals 0, Internals 0

@@ -1,0 +1,325 @@
+| Wirelist created using version 6.1 
+V 6.1
+DW POWER_SUPPLY
+|Q Boards:HLK-PM12 1
+AS Boards:HLK-PM12 DEVICE=HLK-PM12
+AS Boards:HLK-PM12 REFDES=PS?
+AS Boards:HLK-PM12 PARTS=1
+AS Boards:HLK-PM12 LEVEL=STD
+AS Boards:HLK-PM12 PKG_TYPE=HLK-PM3W
+AS Boards:HLK-PM12 PART_NUMBER
+AS Boards:HLK-PM12 DESCRIPTION
+AS Boards:HLK-PM12 INOV_VER_REC=1:24:23_6-12-17
+AS Boards:HLK-PM12 PINORDER=+Vo -Vo AC1 AC2
+AP Boards:HLK-PM12 1 #=4
+AP Boards:HLK-PM12 1 PINTYPE=GROUND
+AP Boards:HLK-PM12 2 #=3
+AP Boards:HLK-PM12 2 PINTYPE=POWER
+AP Boards:HLK-PM12 3 #=1
+AP Boards:HLK-PM12 3 PINTYPE=POWER
+AP Boards:HLK-PM12 4 #=2
+AP Boards:HLK-PM12 4 PINTYPE=POWER
+|Q FUSE_STD_2 1
+AS FUSE_STD_2 PARTS=1
+AS FUSE_STD_2 REFDES=F?
+AS FUSE_STD_2 PART_NUMBER
+AS FUSE_STD_2 Description=FuseHolder5X20
+AS FUSE_STD_2 Primitive=YES
+AS FUSE_STD_2 PKG_TYPE=FUSE-STD
+AS FUSE_STD_2 Cost
+AS FUSE_STD_2 DEVICE=FUSE-STD
+AS FUSE_STD_2 PINORDER=1 2
+AP FUSE_STD_2 1 #=1
+AP FUSE_STD_2 1 PINTYPE=IN
+AP FUSE_STD_2 1 PINTYPE=ANALOG
+AP FUSE_STD_2 2 #=2
+AP FUSE_STD_2 2 PINTYPE=IN
+AP FUSE_STD_2 2 PINTYPE=ANALOG
+|Q Display:LED_SMD_RED 1
+AS Display:LED_SMD_RED Cost
+AS Display:LED_SMD_RED Description=LEDLite-ONSMDRED
+AS Display:LED_SMD_RED PKG_TYPE=LEDC3216X110N
+AS Display:LED_SMD_RED DEVICE=LED_SMD_RED
+AS Display:LED_SMD_RED REFDES=D?
+AS Display:LED_SMD_RED PART_NUMBER=LTST-C230EKT
+AS Display:LED_SMD_RED LEVEL=STD
+AS Display:LED_SMD_RED INOV_VER_REC=17:52:24_11-17-14
+AS Display:LED_SMD_RED PINORDER=A C
+AP Display:LED_SMD_RED 1 #=2
+AP Display:LED_SMD_RED 1 PINTYPE=ANALOG
+AP Display:LED_SMD_RED 2 #=1
+AP Display:LED_SMD_RED 2 PINTYPE=ANALOG
+|Q Resistor:Resistor_0805 1
+AS Resistor:Resistor_0805 DEVICE=RES_SMD_0805
+AS Resistor:Resistor_0805 PKG_TYPE=RES_SMD_0805
+AS Resistor:Resistor_0805 VALUE
+AS Resistor:Resistor_0805 Datasheet
+AS Resistor:Resistor_0805 PARTS=1
+AS Resistor:Resistor_0805 Manufacturer
+AS Resistor:Resistor_0805 PINSWAP=B1,B2
+AS Resistor:Resistor_0805 DESCRIPTION
+AS Resistor:Resistor_0805 REFDES=R?
+AS Resistor:Resistor_0805 CLASS=RES
+AS Resistor:Resistor_0805 PART_NUMBER
+AS Resistor:Resistor_0805 TOLERANCE
+AS Resistor:Resistor_0805 INOV_VER_REC=22:36:22_4-15-18
+AS Resistor:Resistor_0805 PINORDER=B1 B2
+AP Resistor:Resistor_0805 1 #=1
+AP Resistor:Resistor_0805 1 PINTYPE=ANALOG
+AP Resistor:Resistor_0805 2 #=2
+AP Resistor:Resistor_0805 2 PINTYPE=ANALOG
+|Q Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 1
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm REFDES=TVS?
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm DEVICE=P10V275
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm PKG_TYPE=VAR_P10V275
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm VALUE
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm DESCRIPTION=TVSBIDIRETIONALDIODE
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm COST
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm Mfr_Name
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm PART_NUMBER=P10V275
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm Manufacturer
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm INOV_VER_REC=17:06:39_7-27-17
+AS Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm PINORDER=1 2
+AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 1 #=1
+AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 1 PINTYPE=ANALOG
+AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 2 #=2
+AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 2 PINTYPE=ANALOG
+AS Builtin:in_hier INOV_VER_REC=15:06:44_11-3-14
+AS Builtin:in_hier PINORDER=IN
+AP Builtin:in_hier 1 PINTYPE=IN
+AP Builtin:in_hier 1 XREF=
+|Q Circuit_Protection:fuse_std 1
+AS Circuit_Protection:fuse_std REFDES=F?
+AS Circuit_Protection:fuse_std DEVICE=FUSE-STD
+AS Circuit_Protection:fuse_std PKG_TYPE=FUSE-STD
+AS Circuit_Protection:fuse_std Cost
+AS Circuit_Protection:fuse_std DESCRIPTION=FuseHolder5X20
+AS Circuit_Protection:fuse_std PART_NUMBER
+AS Circuit_Protection:fuse_std Mfr_Name
+AS Circuit_Protection:fuse_std INOV_VER_REC=15:12:53_3-20-13
+AS Circuit_Protection:fuse_std PINORDER=1 2
+AP Circuit_Protection:fuse_std 1 #=1
+AP Circuit_Protection:fuse_std 1 PINTYPE=IN
+AP Circuit_Protection:fuse_std 2 #=2
+AP Circuit_Protection:fuse_std 2 PINTYPE=IN
+|Q Connector:TEST_POINT_STD 1
+AS Connector:TEST_POINT_STD PART_NUMBER=TEST_PONT
+AS Connector:TEST_POINT_STD REFDES=TP?
+AS Connector:TEST_POINT_STD LEVEL=STD
+AS Connector:TEST_POINT_STD DEVICE=TEST_POINT_STD
+AS Connector:TEST_POINT_STD PKG_TYPE=TPCW60D250H460P
+AS Connector:TEST_POINT_STD PINORDER=TP
+AP Connector:TEST_POINT_STD 1 #=1
+AP Connector:TEST_POINT_STD 1 PINTYPE=ANALOG
+AS Builtin:out_hier INOV_VER_REC=11:21:37_10-30-14
+AS Builtin:out_hier PINORDER=IN
+AP Builtin:out_hier 1 PINTYPE=IN
+AP Builtin:out_hier 1 XREF=
+|Q Capacitor:CAP_POL 1
+AS Capacitor:CAP_POL VALUE
+AS Capacitor:CAP_POL Manufacturer
+AS Capacitor:CAP_POL REFDES=C?
+AS Capacitor:CAP_POL DEVICE=CAP_POL
+AS Capacitor:CAP_POL PKG_TYPE=NS
+AS Capacitor:CAP_POL Datasheet
+AS Capacitor:CAP_POL DESCRIPTION
+AS Capacitor:CAP_POL PARTS=1
+AS Capacitor:CAP_POL PART_NUMBER
+AS Capacitor:CAP_POL VOLTAGE
+AS Capacitor:CAP_POL INOV_VER_REC=14:09:39_12-5-17
+AS Capacitor:CAP_POL PINORDER=B1 B2
+AP Capacitor:CAP_POL 1 #=1
+AP Capacitor:CAP_POL 1 PINTYPE=ANALOG
+AP Capacitor:CAP_POL 2 #=2
+AP Capacitor:CAP_POL 2 PINTYPE=ANALOG
+|Q Capacitor:Cap 1
+AS Capacitor:Cap REFDES=C?
+AS Capacitor:Cap DEVICE=CAP_NP
+AS Capacitor:Cap PKG_TYPE=NS
+AS Capacitor:Cap VALUE
+AS Capacitor:Cap Datasheet
+AS Capacitor:Cap Manufacturer
+AS Capacitor:Cap PARTS=1
+AS Capacitor:Cap DESCRIPTION
+AS Capacitor:Cap PART_NUMBER
+AS Capacitor:Cap VOLTAGE
+AS Capacitor:Cap INOV_VER_REC=22:10:41_6-11-17
+AS Capacitor:Cap PINORDER=B1 B2
+AP Capacitor:Cap 1 #=1
+AP Capacitor:Cap 1 PINTYPE=ANALOG
+AP Capacitor:Cap 2 #=2
+AP Capacitor:Cap 2 PINTYPE=ANALOG
+|Q Generic:varistor_generic 1
+AS Generic:varistor_generic REFDES=TVS?
+AS Generic:varistor_generic PKG_TYPE=sod-923
+AS Generic:varistor_generic DESCRIPTION
+AS Generic:varistor_generic DEVICE=TVS
+AS Generic:varistor_generic Mfr_Name
+AS Generic:varistor_generic VALUE
+AS Generic:varistor_generic Manufacturer
+AS Generic:varistor_generic PART_NUMBER
+AS Generic:varistor_generic COST
+AS Generic:varistor_generic PINORDER=1 2
+AP Generic:varistor_generic 1 #=1
+AP Generic:varistor_generic 1 PINTYPE=ANALOG
+AP Generic:varistor_generic 2 #=2
+AP Generic:varistor_generic 2 PINTYPE=ANALOG
+|Q Boards:B0505S-W2R2 1
+AS Boards:B0505S-W2R2 DEVICE=B0505S-W2R2
+AS Boards:B0505S-W2R2 REFDES=U?
+AS Boards:B0505S-W2R2 PARTS=1
+AS Boards:B0505S-W2R2 LEVEL=STD
+AS Boards:B0505S-W2R2 PKG_TYPE=MORNSUN_B_SW2R2
+AS Boards:B0505S-W2R2 DESCRIPTION=DC/DCCONVERTERISOLATED5VIN5VOUT
+AS Boards:B0505S-W2R2 INOV_VER_REC=21:03:57_4-10-18
+AS Boards:B0505S-W2R2 PINORDER=IN+ IN- OUT+ OUT-
+AP Boards:B0505S-W2R2 1 #=2
+AP Boards:B0505S-W2R2 1 PINTYPE=POWER
+AP Boards:B0505S-W2R2 2 #=1
+AP Boards:B0505S-W2R2 2 PINTYPE=GROUND
+AP Boards:B0505S-W2R2 3 #=4
+AP Boards:B0505S-W2R2 3 PINTYPE=POWER
+AP Boards:B0505S-W2R2 4 #=3
+AP Boards:B0505S-W2R2 4 PINTYPE=GROUND
+|Q IC:mc7805_to220H 1
+AS IC:mc7805_to220H DESCRIPTION=POSITIVEVOLTAGEREGULATOR;FIXED+5.0VOLTS
+AS IC:mc7805_to220H Cost
+AS IC:mc7805_to220H Mfr_Name=ST
+AS IC:mc7805_to220H PKG_TYPE=TO-220-UP
+AS IC:mc7805_to220H PART_NUMBER=MC7805CT
+AS IC:mc7805_to220H REFDES=U?
+AS IC:mc7805_to220H DEVICE=MC7805_TO220-UP
+AS IC:mc7805_to220H PINORDER=GND IN OUT
+AP IC:mc7805_to220H 1 #=2
+AP IC:mc7805_to220H 1 PINTYPE=ANALOG
+AP IC:mc7805_to220H 2 #=1
+AP IC:mc7805_to220H 2 PINTYPE=ANALOG
+AP IC:mc7805_to220H 3 #=3
+AP IC:mc7805_to220H 3 PINTYPE=ANALOG
+G +12V
+G +5.0V
+G AGND
+G GND
+G VDD
+M Boards:HLK-PM12 $1I499
+I $1I499 Boards:HLK-PM12 +12V GND CON-NEUT $1N615 PART_NUMBER=HLK-PM12`PKG_TYPE=HLK-PM3W`REFDES=PS?`DEVICE=HLK-PM12`
+|R 1:24:23_6-12-17
+API $1I499 Boards:HLK-PM12 1 #=4
+API $1I499 Boards:HLK-PM12 2 #=3
+API $1I499 Boards:HLK-PM12 3 #=1
+API $1I499 Boards:HLK-PM12 4 #=2
+M FUSE_STD_2 $1I496
+I $1I496 FUSE_STD_2 +12V CON-DC+ PKG_TYPE=RESC4532X110N-1812`REFDES=F?`PART_NUMBER=PTS120660V010`
+API $1I496 FUSE_STD_2 1 #=1
+API $1I496 FUSE_STD_2 2 #=2
+M Display:LED_SMD_RED $1I497
+I $1I497 Display:LED_SMD_RED $1N610 CON-DC- REFDES=D?`
+|R 17:52:24_11-17-14
+API $1I497 Display:LED_SMD_RED 1 #=2
+API $1I497 Display:LED_SMD_RED 2 #=1
+M Resistor:Resistor_0805 $1I498
+I $1I498 Resistor:Resistor_0805 CON-DC+ $1N610 PART_NUMBER=0805-1K`VALUE=1K`REFDES=R?`
+|R 22:36:22_4-15-18
+API $1I498 Resistor:Resistor_0805 1 #=1
+API $1I498 Resistor:Resistor_0805 2 #=2
+M Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm $1I509
+I $1I509 Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm $1N615 CON-NEUT REFDES=TVS?`PART_NUMBER=P10V275`DEVICE=P10V275`
+|R 17:06:39_7-27-17
+API $1I509 Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 1 #=1
+API $1I509 Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 2 #=2
+P Builtin:in_hier CON-NEUT
+I CON-NEUT Builtin:in_hier CON-NEUT 
+|R 15:06:44_11-3-14
+P Builtin:in_hier CON-L1
+I CON-L1 Builtin:in_hier CON-L1 
+|R 15:06:44_11-3-14
+M Circuit_Protection:fuse_std $1I508
+I $1I508 Circuit_Protection:fuse_std CON-L1 $1N615 PART_NUMBER=FUSE-HOLDER_5x20`REFDES=F?`
+|R 15:12:53_3-20-13
+API $1I508 Circuit_Protection:fuse_std 1 #=1
+API $1I508 Circuit_Protection:fuse_std 2 #=2
+M Connector:TEST_POINT_STD $1I510
+I $1I510 Connector:TEST_POINT_STD +12V REFDES=TP?`
+API $1I510 Connector:TEST_POINT_STD 1 #=1
+M FUSE_STD_2 $1I502
+I $1I502 FUSE_STD_2 GND CON-DC- REFDES=F?`PART_NUMBER=PTS120660V010`PKG_TYPE=RESC4532X110N-1812`
+API $1I502 FUSE_STD_2 1 #=1
+API $1I502 FUSE_STD_2 2 #=2
+P Builtin:out_hier CON-DC+
+I CON-DC+ Builtin:out_hier CON-DC+ 
+|R 11:21:37_10-30-14
+P Builtin:out_hier CON-DC-
+I CON-DC- Builtin:out_hier CON-DC- 
+|R 11:21:37_10-30-14
+M Capacitor:CAP_POL $1I149
+I $1I149 Capacitor:CAP_POL +5.0V GND GEOMETRY.HEIGHT`VOLTAGE=10`PART_NUMBER=VE-470M1CTR-0505`VALUE=47uF`REFDES=C1`PKG_TYPE=lelon33`
+|R 14:09:39_12-5-17
+API $1I149 Capacitor:CAP_POL 1 #=1
+API $1I149 Capacitor:CAP_POL 2 #=2
+M Resistor:Resistor_0805 $1I145
+I $1I145 Resistor:Resistor_0805 VDD $1N122 GEOMETRY.HEIGHT`REFDES=R2`PART_NUMBER=0805-1K`
+|R 22:36:22_4-15-18
+API $1I145 Resistor:Resistor_0805 1 #=1
+API $1I145 Resistor:Resistor_0805 2 #=2
+M Connector:TEST_POINT_STD $1I147
+I $1I147 Connector:TEST_POINT_STD GND REFDES=TP3`
+API $1I147 Connector:TEST_POINT_STD 1 #=1
+M Capacitor:Cap $1I142
+I $1I142 Capacitor:Cap +12V GND GEOMETRY.HEIGHT`Footprint_Name=0805`PKG_TYPE=CAPC2013X100N`DataSheet=http://www.kemet.com/kemet/web/homepage/kechome.ns`Part_Type=CAPACITOR`Dielectric=X7R`DXDB_LIBNAME=MG-CAPACITORs`Tolerance=+-10%`REFDES=C3`Part_Sub_Type=Ceramic`PART_NUMBER=C0805C104K3RAC`Manufacturer=Kemet`VALUE=0.1uF`Description=SurfaceMountMultilayerCeramicChipCapacitors(SMDMLCCs)`VOLTAGE=25V`
+|R 22:10:41_6-11-17
+API $1I142 Capacitor:Cap 1 #=1
+API $1I142 Capacitor:Cap 2 #=2
+M Capacitor:Cap $1I143
+I $1I143 Capacitor:Cap +5.0V GND GEOMETRY.HEIGHT`VALUE=0.1uF`REFDES=C2`Tolerance=+-10%`Part_Sub_Type=Ceramic`PART_NUMBER=C0805C104K3RAC`DXDB_LIBNAME=MG-CAPACITORs`Part_Type=CAPACITOR`DataSheet=http://www.kemet.com/kemet/web/homepage/kechome.ns`Manufacturer=Kemet`Footprint_Name=0805`VOLTAGE=25V`PKG_TYPE=CAPC2013X100N`Dielectric=X7R`Description=SurfaceMountMultilayerCeramicChipCapacitors(SMDMLCCs)`
+|R 22:10:41_6-11-17
+API $1I143 Capacitor:Cap 1 #=1
+API $1I143 Capacitor:Cap 2 #=2
+M Display:LED_SMD_RED $1I144
+I $1I144 Display:LED_SMD_RED $1N122 AGND GEOMETRY.HEIGHT`REFDES=D2`
+|R 17:52:24_11-17-14
+API $1I144 Display:LED_SMD_RED 1 #=2
+API $1I144 Display:LED_SMD_RED 2 #=1
+M Generic:varistor_generic $1I129
+I $1I129 Generic:varistor_generic GND +5.0V REFDES=TVS3`PART_NUMBER=1SMA5918BT3G`PKG_TYPE=DO-214AC`
+API $1I129 Generic:varistor_generic 1 #=1
+API $1I129 Generic:varistor_generic 2 #=2
+M Connector:TEST_POINT_STD $1I131
+I $1I131 Connector:TEST_POINT_STD +5.0V REFDES=TP2`
+API $1I131 Connector:TEST_POINT_STD 1 #=1
+M Boards:B0505S-W2R2 $1I137
+I $1I137 Boards:B0505S-W2R2 +5.0V GND VDD AGND REFDES=U?`PART_NUMBER=B0505S-W2R2`DESCRIPTION=DC/DCCONVERTERISOLATED5VIN5VOUT`PKG_TYPE=MORNSUN_B_SW2R2`DEVICE=B0505S-W2R2`
+|R 21:03:57_4-10-18
+API $1I137 Boards:B0505S-W2R2 1 #=2
+API $1I137 Boards:B0505S-W2R2 2 #=1
+API $1I137 Boards:B0505S-W2R2 3 #=4
+API $1I137 Boards:B0505S-W2R2 4 #=3
+M Generic:varistor_generic $1I138
+I $1I138 Generic:varistor_generic AGND VDD GEOMETRY.HEIGHT`PART_NUMBER=1SMA5918BT3G`PKG_TYPE=DO-214AC`REFDES=TVS2`
+API $1I138 Generic:varistor_generic 1 #=1
+API $1I138 Generic:varistor_generic 2 #=2
+M IC:mc7805_to220H $1I141
+I $1I141 IC:mc7805_to220H GND +12V +5.0V PART_NUMBER=MC7805CT`REFDES=U?`
+API $1I141 IC:mc7805_to220H 1 #=2
+API $1I141 IC:mc7805_to220H 2 #=1
+API $1I141 IC:mc7805_to220H 3 #=3
+M Resistor:Resistor_0805 $1I387
+I $1I387 Resistor:Resistor_0805 +12V $1N379 GEOMETRY.HEIGHT`REFDES=R3`VALUE=2.2K`PART_NUMBER=0805-2.2K`
+|R 22:36:22_4-15-18
+API $1I387 Resistor:Resistor_0805 1 #=1
+API $1I387 Resistor:Resistor_0805 2 #=2
+M Display:LED_SMD_RED $1I385
+I $1I385 Display:LED_SMD_RED $1N382 GND GEOMETRY.HEIGHT`REFDES=D3`
+|R 17:52:24_11-17-14
+API $1I385 Display:LED_SMD_RED 1 #=2
+API $1I385 Display:LED_SMD_RED 2 #=1
+M Resistor:Resistor_0805 $1I390
+I $1I390 Resistor:Resistor_0805 +5.0V $1N382 GEOMETRY.HEIGHT`REFDES=R2`PART_NUMBER=0805-470`VALUE=470`
+|R 22:36:22_4-15-18
+API $1I390 Resistor:Resistor_0805 1 #=1
+API $1I390 Resistor:Resistor_0805 2 #=2
+M Display:LED_SMD_RED $1I386
+I $1I386 Display:LED_SMD_RED $1N379 GND GEOMETRY.HEIGHT`REFDES=D4`
+|R 17:52:24_11-17-14
+API $1I386 Display:LED_SMD_RED 1 #=2
+API $1I386 Display:LED_SMD_RED 2 #=1
+EW
