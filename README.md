@@ -1,2 +1,3 @@
-# IC_Shelter
-Datos del IC_Shelter, Diseño Mecatronico
+******   30/10/2021   ******
+
+Archivos Gerber del PCB
