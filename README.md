@@ -1,2 +1,3 @@
-# IC_Shelter
-Datos del IC_Shelter, Diseño Mecatronico
+#Diseño Layout
+
+Aqui se encuentran los archivos del Layout del IC-Shelter
