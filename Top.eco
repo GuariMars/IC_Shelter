@@ -1,0 +1,54 @@
+*PADS-ECO-V10.0-MILS*
+*REMARK*  old file: D:\Desktop\Simuladores\PADS\Designer\PCB IC-Shelter\IC-Shelter P01.asc
+*REMARK*  new file: D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\Top.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 10/30/2021 4:07:24 PM
+*SPLITNET*
+*SIGNAL*  CON-DC+
+J1.1  R53.1  F5.2
+*SIGNAL*  CON-DC-
+D16.1  F4.2
+*NET*
+*SIGNAL*  CON-DC-
+J1.2
+*SIGNAL*  VCC
+U1.9
+*DEL_ATTRIBUTE*	PCB	DEFAULT
+"Blaze.TestPoint.Color"
+"Blaze.Thermal.Color"
+"CAM.Apply Oversize To All Pads"
+"Guard.BandColor"
+*DEL_ATTRIBUTE*	PART	K1
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K2
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K3
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K4
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K5
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	C13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	C12
+"IPC_VERSION"
+"POLARITY"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	D16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R53
+"Geometry.Height"
+
+*REMARK*  Deleted pins: 0,  Added pins: 2
+*END*
