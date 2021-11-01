@@ -1,2 +1,3 @@
-# IC_Shelter
-Datos del IC_Shelter, Diseño Mecatronico
+******   01/11/2021   ******
+
+Modelado 3D de la base y caja donde se insertara el PCB
