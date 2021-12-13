@@ -1,0 +1,182 @@
+[2021.10.24 17:53:51] [0000m.00s.036ms] [0] WELCOME
+[2021.10.24 17:53:51] [0000m.00s.037ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.24 17:53:51] [0000m.00s.037ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.24 17:53:51] [0000m.00s.037ms] [1] Base flow version [VX.2.7]
+[2021.10.24 17:53:51] [0000m.00s.038ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.24 17:53:51] [0000m.00s.038ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.24 17:53:51] [0000m.00s.046ms] [1] Machine [GUARI-LAP]  IP [127.0.0.1,192.168.0.7]  User [guari]  PID [9100]
+[2021.10.24 17:53:51] [0000m.00s.046ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.10.24 17:53:51] [0000m.00s.046ms] [1] Current working dir [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter]
+[2021.10.24 17:53:51] [0000m.00s.046ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Putty\;D:\Desktop\Simuladores\Git\Git\cmd;D:\Desktop\Simuladores\Git\Git\mingw64\bin;D:\Desktop\Simuladores\Git\Git\usr\bin;D:\Programas\TortoiseGit\bin;C:\Users\guari\AppData\Local\Microsoft\WindowsApps;D:\Programacion\Microsoft VS Code\bin]
+[2021.10.24 17:53:51] [0000m.00s.047ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.24 17:53:51] [0000m.00s.047ms] [1] SDD_PLATFORM [win32]
+[2021.10.24 17:53:51] [0000m.00s.047ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.24 17:53:51] [0000m.00s.047ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.24 17:53:51] [0000m.00s.048ms] [2] S: Loading config files
+[2021.10.24 17:53:51] [0000m.00s.062ms] [1] Config file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\database\cdbsvr\Server.cfg] not found
+[2021.10.24 17:53:51] [0000m.00s.063ms] [3] S: Config loaded
+[2021.10.24 17:53:51] [0000m.00s.195ms] [0] S: Project path [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\database] on file system [NTFS]
+[2021.10.24 17:53:51] [0000m.00s.195ms] [0] S: Project file (.prj) path [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\IC-Shelter.prj] on file system [NTFS]
+[2021.10.24 17:53:51] [0000m.00s.195ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.10.24 17:53:51] [0000m.00s.195ms] [0] S: Single-user mode (auto)
+[2021.10.24 17:53:51] [0000m.00s.195ms] [0] S: Event polling mode autodetection
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] S: Started up automatically by iCDB Client: GUARI-LAP:guari:14392
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] S: Auto close mode
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] S: Database ID [6a0d-1e56-b894-4dff-8356-251e-3562-5160-0db3-9fff-ff19-4bdb]
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] PathTranslator: BEGIN dumping
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] PathTranslator: Local -> global path prefix list
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] PathTranslator: Global -> local path prefix list
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] PathTranslator: END dumping
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] S: START
+[2021.10.24 17:53:51] [0000m.00s.197ms] [0] S: Server startup lock file created
+[2021.10.24 17:53:51] [0000m.00s.198ms] [0] S: Listening for client connections on port [10000]
+[2021.10.24 17:53:51] [0000m.00s.200ms] [0] S: Server network ID [Guari-Lap:192.168.0.7,Guari-Lap:10000]
+[2021.10.24 17:53:51] [0000m.00s.200ms] [0] S: Server GUID [c0ad-1948-eb34-37a1-fe5d-5715-f5d5-7160-23e3-20fc-ac19-4bdb]
+[2021.10.24 17:53:51] [0000m.00s.200ms] [0] S: Project GUID [6a0d-1e56-b894-4dff-8356-251e-3562-5160-0db3-9fff-ff19-4bdb]
+[2021.10.24 17:53:51] [0000m.00s.201ms] [0] S: Wrote data to server address file
+[2021.10.24 17:53:51] [0000m.00s.201ms] [0] S: Server startup lock file removed
+[2021.10.24 17:53:51] [0000m.00s.203ms] [1] ProjectBackupManager: Setting project file (.prj) path: [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\IC-Shelter.prj]
+[2021.10.24 17:53:52] [0000m.00s.752ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.10.24 17:53:52] [0000m.00s.752ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.10.24 17:53:52] [0000m.00s.752ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.10.24 17:53:52] [0000m.00s.753ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.10.24 17:53:52] [0000m.00s.753ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.10.24 17:53:52] [0000m.00s.753ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.10.24 17:53:52] [0000m.00s.754ms] [0] S: Local disc access time: 37 us
+[2021.10.24 17:53:52] [0000m.00s.754ms] [0] S: File server access time: 31 us
+[2021.10.24 17:53:52] [0000m.00s.780ms] [0] Single file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\database\icdb.dat] size [472336 (461.3 kB)]
+[2021.10.24 17:53:52] [0000m.00s.780ms] [1] Single file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\database\icdb.dat] opened in read-write mode
+[2021.10.24 17:53:52] [0000m.00s.780ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.24 17:53:52] [0000m.00s.780ms] [0] Database GUARD OK: [472336]
+[2021.10.24 17:53:52] [0000m.00s.789ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.24 17:53:52] [0000m.00s.789ms] [0] Database GUARD OK: [472336]
+[2021.10.24 17:53:52] [0000m.00s.789ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.24 17:53:52] [0000m.00s.789ms] [0] Database GUARD OK: [472336]
+[2021.10.24 17:53:52] [0000m.00s.789ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.24 17:53:52] [0000m.00s.789ms] [0] Database GUARD OK: [472336]
+[2021.10.24 17:53:52] [0000m.00s.795ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.24 17:53:52] [0000m.00s.795ms] [0] Database GUARD OK: [472336]
+[2021.10.24 17:53:52] [0000m.00s.795ms] [0] SingleFile: [ea17-d274-fd10-e93c] SFI version check [1009] [1009]
+[2021.10.24 17:53:52] [0000m.00s.805ms] [0] SingleFile: [ea17-d274-fd10-e93c] Database SFI header has been read in [9ms 992us]
+[2021.10.24 17:53:52] [0000m.00s.813ms] [0] iCDB Server PI: Server & plugin session [173]
+[2021.10.24 17:53:52] [0000m.00s.813ms] [0] iCDB Server PI: Opening database [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\database]
+[2021.10.24 17:53:52] [0000m.00s.814ms] [0] iCDB Server PI: Database [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\database] opened
+[2021.10.24 17:53:52] [0000m.00s.884ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.10.24 17:53:52] [0000m.00s.884ms] [0] iCDB Database: Checking constraint definitions version
+[2021.10.24 17:53:52] [0000m.00s.920ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.10.24 17:53:52] [0000m.00s.926ms] [0] iCDB Server PI: Initializing plugins
+[2021.10.24 17:53:52] [0000m.00s.928ms] [0] iCDB Server PI: Plugins initialized
+[2021.10.24 17:53:52] [0000m.00s.929ms] [0] S: iCDB database loaded
+[2021.10.24 17:53:52] [0000m.00s.932ms] [0] S: Starting threads
+[2021.10.24 17:53:52] [0000m.00s.932ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.10.24 17:53:52] [0000m.00s.933ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.10.24 17:53:52] [0000m.00s.937ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.10.24 17:53:52] [0000m.00s.937ms] [0] IT: Session [174] for host [Guari-Lap] user [guari] client type[0] clsvrPluginID[0] with process ID [14392] created
+[2021.10.24 17:53:52] [0000m.00s.944ms] [1] SC[174]: Registered sub-client [DxD] with ID [1] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.045ms] [1] CMT: There are [1] clients now: 174
+[2021.10.24 17:53:52] [0000m.01s.059ms] [1] SC[174]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.075ms] [1] SC[174]: Registered sub-client [SymbolEditor] with ID [3] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.079ms] [1] SC[174]: Registered sub-client [SelectionHolder] with ID [4] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.110ms] [1] SC[174]: Registered sub-client [Core::DesignListener-460658456-0] with ID [5] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.116ms] [1] SC[174]: Registered sub-client [BlockCacheDxD:460658792] with ID [6] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.118ms] [1] SC[174]: Registered sub-client [Core::NetFlatData-29301] with ID [7] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.149ms] [1] SC[174]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.157ms] [1] SC[174]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:52] [0000m.01s.159ms] [1] SC[174]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:53] [0000m.01s.516ms] [1] PrjBackupMgr: Successfully created Project Backup [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-24 17.53.52 - auto.zip] with GUID [a703-d341-ad98-64f8-0f5d-5716-f5d5-7160-ea93-20fc-ac19-4bdb]
+[2021.10.24 17:53:53] [0000m.01s.517ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[95dc-9dbd-2f13-8fb0-5be7-c61b-be7c-6160-2c44-cfef-ac19-4bdb] CreationTime[Sunday, October 17, 2021 19:51:17] Type[Autosave] Creator[iCDB Server (2021-10-17 15.51.17-2508)] ApplicationName[iCDB Server (2021-10-17 15.51.17-2508)] UserName[guari] MachineName[GUARI-LAP] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-17 15.51.17 - auto.zip] BackupFileSize[461155] Persistent[FALSE]
+[2021.10.24 17:53:53] [0000m.01s.530ms] [0] PrjBackupMgr: Project Backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-17 15.51.17 - auto.zip] with GUID [95dc-9dbd-2f13-8fb0-5be7-c61b-be7c-6160-2c44-cfef-ac19-4bdb] removed
+[2021.10.24 17:53:53] [0000m.01s.532ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[a703-d341-ad98-64f8-0f5d-5716-f5d5-7160-ea93-20fc-ac19-4bdb] CreationTime[Sunday, October 24, 2021 21:53:52] Type[Autosave] Creator[iCDB Server (2021-10-24 17.53.51-9100)] ApplicationName[iCDB Server (2021-10-24 17.53.51-9100)] UserName[guari] MachineName[GUARI-LAP] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-24 17.53.52 - auto.zip] BackupFileSize[503578] Persistent[FALSE]
+[2021.10.24 17:53:54] [0000m.03s.387ms] [1] SC[174]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:54] [0000m.03s.395ms] [1] SC[174]: Registered sub-client [HdlProject] with ID [11] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:55] [0000m.03s.510ms] [1] SC[174]: Registered sub-client [Navigator] with ID [12] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:55] [0000m.03s.522ms] [1] SC[174]: Registered sub-client [OutputWindow] with ID [13] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:55] [0000m.03s.524ms] [1] SC[174]: Registered sub-client [PlaceDevice] with ID [14] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:55] [0000m.03s.634ms] [1] SC[174]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:55] [0000m.03s.639ms] [1] SC[174]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.772ms] [1] SC[174]: Registered sub-client [FFSSelListener] with ID [17] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.775ms] [1] SC[174]: Registered sub-client [SAE] with ID [18] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.787ms] [1] SC[174]: Registered sub-client [DxConstraints] with ID [19] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.789ms] [1] SC[174]: Registered sub-client [CCZAddin] with ID [20] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.791ms] [1] SC[174]: Registered sub-client [DxThumbnails] with ID [21] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.794ms] [1] SC[174]: Registered sub-client [MyParts] with ID [22] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.810ms] [1] SC[174]: Registered sub-client [PinsList] with ID [23] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.898ms] [1] SC[174]: Registered sub-client [toolboxes] with ID [24] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.936ms] [1] SC[174]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.940ms] [1] SC[174]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:617607816] with ID [26] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.04s.992ms] [1] SC[174]: Registered sub-client [SheetConnectorsCacheDxD:1635112436] with ID [27] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.05s.063ms] [1] SC[174]: Registered sub-client [NetsNamesCollectorDxD:1635112436] with ID [28] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.05s.198ms] [1] SC[174]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.05s.200ms] [1] SC[174]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.05s.210ms] [1] SC[174]: Registered sub-client [xprob] with ID [31] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.05s.295ms] [1] SC[174]: Registered sub-client [StartServerClient311c] with ID [32] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:53:56] [0000m.05s.296ms] [1] SC[174]: UnRegistered sub-client [StartServerClient311c] with ID [32] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:54:00] [0000m.08s.861ms] [1] SC[174]: Registered sub-client [ObjectHolder_619991952] with ID [33] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:54:00] [0000m.08s.863ms] [1] SC[174]: Registered sub-client [BlockCacheDxD:702167088] with ID [34] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:54:00] [0000m.08s.866ms] [1] SC[174]: Registered sub-client [GlobalNetAliasUpdater_619989456] with ID [35] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:54:00] [0000m.08s.870ms] [1] SC[174]: Registered sub-client [IcdbNetProcessorSubClientDxD:701914840] with ID [36] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:54:01] [0000m.09s.546ms] [1] SC[174]: Registered sub-client [DxDbSearch] with ID [37] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 17:54:22] [0000m.30s.705ms] [0] DFAMT: File server access time: 36 us
+[2021.10.24 17:59:59] [0006m.08s.360ms] [0] IT: Session [175] for host [Guari-Lap] user [guari] client type[0] clsvrPluginID[0] with process ID [2312] created
+[2021.10.24 17:59:59] [0006m.08s.361ms] [1] SC[175]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [175] host [Guari-Lap] user [guari] process ID [2312]
+[2021.10.24 17:59:59] [0006m.08s.418ms] [1] SC[175]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [175] host [Guari-Lap] user [guari] process ID [2312]
+[2021.10.24 18:00:00] [0006m.08s.439ms] [1] CMT: There are [2] clients now: 174, 175
+[2021.10.24 18:00:00] [0006m.08s.439ms] [1] CMT: Removed client [175]
+[2021.10.24 18:00:00] [0006m.08s.439ms] [1] CMT: There are [1] clients now: 174
+[2021.10.24 20:03:01] [0129m.10s.045ms] [1] SC[174]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.10s.462ms] [1] SC[174]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.10s.971ms] [1] SC[174]: UnRegistered sub-client [GlobalNetAliasUpdater_619989456] with ID [35] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.10s.971ms] [1] SC[174]: UnRegistered sub-client [BlockCacheDxD:702167088] with ID [34] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.10s.972ms] [1] SC[174]: UnRegistered sub-client [ObjectHolder_619991952] with ID [33] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.10s.972ms] [1] SC[174]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:701914840] with ID [36] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.10s.985ms] [1] SC[174]: UnRegistered sub-client [Navigator] with ID [12] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.10s.992ms] [1] SC[174]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.11s.115ms] [1] SC[174]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.11s.249ms] [1] SC[174]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.11s.294ms] [1] SC[174]: UnRegistered sub-client [MyParts] with ID [22] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.11s.315ms] [1] SC[174]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.11s.361ms] [1] SC[174]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.11s.363ms] [1] SC[174]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:02] [0129m.11s.363ms] [1] SC[174]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.541ms] [1] SC[174]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:617607816] with ID [26] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.544ms] [1] SC[174]: UnRegistered sub-client [Core::NetFlatData-29301] with ID [7] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.544ms] [1] SC[174]: UnRegistered sub-client [BlockCacheDxD:460658792] with ID [6] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.545ms] [1] SC[174]: UnRegistered sub-client [Core::DesignListener-460658456-0] with ID [5] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.548ms] [1] SC[174]: UnRegistered sub-client [SheetConnectorsCacheDxD:1635112436] with ID [27] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.548ms] [1] SC[174]: UnRegistered sub-client [NetsNamesCollectorDxD:1635112436] with ID [28] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.564ms] [1] SC[174]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.571ms] [1] SC[174]: UnRegistered sub-client [DxD] with ID [1] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.586ms] [1] SC[174]: UnRegistered sub-client [xprob] with ID [31] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.587ms] [1] SC[174]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.752ms] [1] SC[174]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.882ms] [1] SC[174]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.890ms] [1] SC[174]: UnRegistered sub-client [SAE] with ID [18] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.914ms] [1] SC[174]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:04] [0129m.12s.918ms] [1] SC[174]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:08] [0129m.16s.515ms] [1] SC[174]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:08] [0129m.16s.569ms] [1] SC[174]: UnRegistered sub-client [PinsList] with ID [23] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:08] [0129m.16s.635ms] [1] SC[174]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:08] [0129m.16s.682ms] [1] SC[174]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:08] [0129m.16s.716ms] [1] SC[174]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [174] host [Guari-Lap] user [guari] process ID [14392]
+[2021.10.24 20:03:08] [0129m.16s.834ms] [1] CMT: Removed client [174]
+[2021.10.24 20:03:08] [0129m.16s.834ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.10.24 20:03:10] [0129m.18s.468ms] [0] CMT: Starting server auto-close
+[2021.10.24 20:03:10] [0129m.18s.576ms] [0] S: Closing server
+[2021.10.24 20:03:10] [0129m.18s.730ms] [0] iCDB Server PI: Closing plugins
+[2021.10.24 20:03:10] [0129m.18s.741ms] [0] iCDB Server PI: Plugins closed
+[2021.10.24 20:03:10] [0129m.18s.741ms] [0] iCDB Server PI: Unloading database
+[2021.10.24 20:03:10] [0129m.18s.742ms] [0] iCDB Server PI: Saving storage
+[2021.10.24 20:03:10] [0129m.18s.742ms] [0] iCDB Server PI: Closing database
+[2021.10.24 20:03:10] [0129m.18s.782ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[3%] data[98%]
+[2021.10.24 20:03:10] [0129m.18s.782ms] [1] iCDB Server PI: Stats: Database file size [487448 (476.0 kB)]
+[2021.10.24 20:03:10] [0129m.18s.830ms] [0] iCDB Server PI: Database closed
+[2021.10.24 20:03:10] [0129m.18s.830ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [272961] ticks
+[2021.10.24 20:03:10] [0129m.18s.830ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [27296] microseconds
+[2021.10.24 20:03:10] [0129m.18s.830ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [15]
+[2021.10.24 20:03:10] [0129m.18s.830ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [549] commands per second
+[2021.10.24 20:03:10] [0129m.18s.830ms] [1] iCDB Server PI: Stats: Mem[33374208]
+[2021.10.24 20:03:10] [0129m.18s.830ms] [1] iCDB Server PI: Stats: MemPeak[45510656]
+[2021.10.24 20:03:10] [0129m.18s.831ms] [0] Single file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\database\icdb.dat] closed with size [487448 (476.0 kB)]
+[2021.10.24 20:03:10] [0129m.19s.091ms] [0] MWT: Destroy the shutdown block reason.
+[2021.10.24 20:03:10] [0129m.19s.092ms] [0] MWT: STOP
+[2021.10.24 20:03:10] [0129m.19s.093ms] [0] S: STOP

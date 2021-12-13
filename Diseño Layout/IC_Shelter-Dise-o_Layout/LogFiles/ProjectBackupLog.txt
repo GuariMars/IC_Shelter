@@ -1,0 +1,27 @@
+[2021-09-27 20.56.39] Successfully created [AutoSave] backup [2021-09-27 20.56.39 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-03 16.36.56] Successfully created [AutoSave] backup [2021-10-03 16.36.56 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-03 20.36.56] Successfully created [AutoSave] backup [2021-10-03 20.36.56 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-04 21.14.35] Successfully created [AutoSave] backup [2021-10-04 21.14.35 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-04 21.14.35] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-09-27 20.56.39 - auto.zip].
+[2021-10-04 21.14.35] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-09-27 20.56.39 - auto.zip] removed.
+[2021-10-11 19.26.20] Successfully created [AutoSave] backup [2021-10-11 19.26.20 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-11 19.26.20] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-03 16.36.56 - auto.zip].
+[2021-10-11 19.26.20] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-03 16.36.56 - auto.zip] removed.
+[2021-10-17 15.51.18] Successfully created [AutoSave] backup [2021-10-17 15.51.17 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-17 15.51.18] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-03 20.36.56 - auto.zip].
+[2021-10-17 15.51.18] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-03 20.36.56 - auto.zip] removed.
+[2021-10-18 18.55.18] Successfully created [AutoSave] backup [2021-10-18 18.55.17 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-18 18.55.18] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-04 21.14.35 - auto.zip].
+[2021-10-18 18.55.18] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-04 21.14.35 - auto.zip] removed.
+[2021-10-23 16.51.38] Successfully created [AutoSave] backup [2021-10-23 16.51.37 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-23 16.51.38] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-11 19.26.20 - auto.zip].
+[2021-10-23 16.51.38] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-11 19.26.20 - auto.zip] removed.
+[2021-10-24 17.53.53] Successfully created [AutoSave] backup [2021-10-24 17.53.52 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-24 17.53.53] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-17 15.51.17 - auto.zip].
+[2021-10-24 17.53.53] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-17 15.51.17 - auto.zip] removed.
+[2021-10-30 11.06.10] Successfully created [AutoSave] backup [2021-10-30 11.06.09 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-30 11.06.10] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-18 18.55.17 - auto.zip].
+[2021-10-30 11.06.10] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-18 18.55.17 - auto.zip] removed.
+[2021-10-30 15.06.09] Successfully created [AutoSave] backup [2021-10-30 15.06.09 - auto.zip] requested by [GUARI-LAP:guari].
+[2021-10-30 15.06.09] Removing excessive [AutoSave] backup file [D:\Desktop\Simuladores\PADS\Designer\IC-Shelter\ProjectBackup\backups\2021-10-23 16.51.37 - auto.zip].
+[2021-10-30 15.06.09] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-23 16.51.37 - auto.zip] removed.
